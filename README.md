@@ -1,6 +1,6 @@
 # 首页
 ## 《奇侠大营救》最新预告
-[预告](//player.bilibili.com/player.html?isOutside=true&aid=113599636833532&bvid=BV1j7iRY2Eic&cid=27192526609&p=1 ':include')
+[预告](//player.bilibili.com/player.html?isOutside=true&aid=113605290889182&bvid=BV17MizYBEAy&cid=27207797618&p=1 ':include')
 ## 时间线
 - 2024年11月20日《奇侠大营救》首发预告
 - 2024年10月7日《守护》网播
