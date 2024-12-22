@@ -1,6 +1,4 @@
 # 首页
-## 义破千劫，侠影迷踪
-《奇侠大营救》即将上线，敬请期待
 ## 《奇侠大营救》最新预告
 [预告](//player.bilibili.com/player.html?isOutside=true&aid=113678976353742&bvid=BV1JnkuYzE52&cid=27420921545&p=1 ':include')
 ## 时间线
