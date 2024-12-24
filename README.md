@@ -1,6 +1,6 @@
 # 首页
 ## 《奇侠大营救》最新预告
-[预告](//player.bilibili.com/player.html?isOutside=true&aid=113678976353742&bvid=BV1JnkuYzE52&cid=27420921545&p=1 ':include')
+[预告](//player.bilibili.com/player.html?isOutside=true&aid=113701692637786&bvid=BV1zdC3YjEPc&cid=27490716947&p=1 ':include')
 ## 时间线
 - 2024年12月6日《飞跃新次元》备案
 - 2024年11月20日《奇侠大营救》首发预告
